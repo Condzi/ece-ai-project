@@ -1,5 +1,3 @@
-# blah blah blah
-
 import numpy as np
 import cv2
 import time #Break between the detections
