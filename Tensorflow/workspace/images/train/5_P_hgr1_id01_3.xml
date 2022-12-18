@@ -1,0 +1,26 @@
+<annotation>
+	<folder>sex</folder>
+	<filename>5_P_hgr1_id01_3.jpg</filename>
+	<path>C:\Users\Seana\OneDrive\Desktop\original_images\sex\5_P_hgr1_id01_3.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>424</width>
+		<height>349</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>5</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>172</xmin>
+			<ymin>9</ymin>
+			<xmax>415</xmax>
+			<ymax>233</ymax>
+		</bndbox>
+	</object>
+</annotation>
