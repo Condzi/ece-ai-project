@@ -1,0 +1,26 @@
+<annotation>
+	<folder>thanks</folder>
+	<filename>thanks.984c5f7b-7ed1-11ed-a67b-dcf505052f4e.jpg</filename>
+	<path>W:\pwr\ece-ai-project\ece-ai-project\RealTimeObjectDetection\Tensorflow\workspace\images\collectedImages\thanks\thanks.984c5f7b-7ed1-11ed-a67b-dcf505052f4e.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>thanks</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>189</xmin>
+			<ymin>231</ymin>
+			<xmax>547</xmax>
+			<ymax>444</ymax>
+		</bndbox>
+	</object>
+</annotation>

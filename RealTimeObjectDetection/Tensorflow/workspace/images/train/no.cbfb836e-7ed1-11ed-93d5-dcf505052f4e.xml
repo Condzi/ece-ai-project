@@ -1,7 +1,7 @@
 <annotation>
 	<folder>no</folder>
-	<filename>no.c5eddc5c-7ed1-11ed-a26a-dcf505052f4e.jpg</filename>
-	<path>C:\Users\Seana\OneDrive\Documents\GitHub\ece-ai-project\RealTimeObjectDetection\Tensorflow\workspace\images\collectedImages\no\no.c5eddc5c-7ed1-11ed-a26a-dcf505052f4e.jpg</path>
+	<filename>no.cbfb836e-7ed1-11ed-93d5-dcf505052f4e.jpg</filename>
+	<path>C:\Users\Seana\OneDrive\Documents\GitHub\ece-ai-project\RealTimeObjectDetection\Tensorflow\workspace\images\collectedImages\no\no.cbfb836e-7ed1-11ed-93d5-dcf505052f4e.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>168</xmin>
-			<ymin>217</ymin>
-			<xmax>338</xmax>
-			<ymax>363</ymax>
+			<xmin>387</xmin>
+			<ymin>234</ymin>
+			<xmax>563</xmax>
+			<ymax>382</ymax>
 		</bndbox>
 	</object>
 </annotation>
